@@ -2,7 +2,7 @@
 
 A password testing application for Wi-Fi networks on Windows systems. In this beta version, you must manually enter your file with passwords to be tested. In the next version, a custom dictionary feature will be added where you can input data that will automatically generate a more specific password dictionary for your target.
 
-[Image of your screenshot]
+[screenshot](screenshot_ConnectMeGui.png)
 
 **MIT License**
 
