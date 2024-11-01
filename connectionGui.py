@@ -35,7 +35,7 @@ class WifiTesterGUI:
         self.file_path_entry = ttk.Entry(main_frame, textvariable=self.file_path_var, width=30)
         self.file_path_entry.grid(row=3, column=1, sticky=tk.W, pady=5)
         
-        self.browse_button = ttk.Button(main_frame, text="Buscar", command=self.browse_file)
+        self.browse_button = ttk.Button(main_frame, text="Select file", command=self.browse_file)
         self.browse_button.grid(row=3, column=2, sticky=tk.W, pady=5, padx=5)
         
         
