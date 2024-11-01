@@ -1,0 +1,2 @@
+pywifi==1.1.12
+pyinstaller==5.13.0
